@@ -44,8 +44,8 @@ Currently, I'm:
 ### 🏦 Prism Mortgage Calculator
 A full-stack mortgage approval tool that predicts approval likelihood and provides personalized recommendations.
 
-🔗 Live: https://your-live-link.com  
-📁 Repo: https://github.com/yourusername/prism  
+🔗 Live: 
+📁 Repo: https://github.com/Kshazly/BrainStation_sprint2_Client.git
 
 **Features:**
 - Approval likelihood prediction
@@ -55,19 +55,19 @@ A full-stack mortgage approval tool that predicts approval likelihood and provid
 
 ---
 
-### 🎨 ArtSpace
-A responsive web application showcasing digital artwork.
+### 🎨 Instock 
+InStock was a full-stack team project focused on building an Inventory Management System for a Fortune 500 client.
 
-🔗 Live: https://your-live-link.com  
-📁 Repo: https://github.com/yourusername/artspace  
+🔗 Live: 
+📁 Repo: https://github.com/SarraD-code/instock-client.git
 
 ---
 
-### 🌍 Cartogra
-A location-based app with interactive UI and API integration.
+### 🌍 Industry Sprint
+This project was developed during an industry-focused sprint where the main objective was to address a practical business problem and translate it into a clear digital solution.
 
-🔗 Live: https://your-live-link.com  
-📁 Repo: https://github.com/yourusername/cartogra  
+🔗 Live:  
+📁 Repo: https://github.com/maritzbuchholz/TDFinancialHealth.git
 
 ---
 
